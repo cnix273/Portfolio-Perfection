@@ -2,35 +2,38 @@
 
 ## Summary
 
-This serves as a professional Portfolio for Cameron Nix. The portfolio is responsive to ensure that the site renders well on a variety of devices and window or screen sizes.
+This serves as a professional Portfolio for Cameron Nix.
 
 It includes:
-1. An "About Me" page, detailing Cameron's background, interests, and experience
-1. A "Portfolio" page, offering photos of Cameron's favorite looks
-1. A "Contact" page, for inquiries
+1. An "About Me" page, highlighting Cameron's background and education as well as her introduction to coding.
+1. A "Portfolio" page, offering gifs showing the styling and functionality of some of Cameron's most recent work.
+1. A "Contact" page, for any and all inquiries.
+
+The portfolio is responsive to ensure that the site renders well on a variety of devices and window or screen sizes.
 
 ## Installation
 
 Clone the repository from github.
 
-* git clone https://github.com/cnix273/responsive_design.git
+* git clone https://github.com/cnix273/Portfolio-Perfection.git
 
 ## Usage
 
 **Technologies Used**
-* HTML - Used to create elements of the sites
-* CSS - Used to styles HTML Elements
-* Bootstrap - CSS & JS framework used to make the site responsive and make links functional
+* HTML - Used to create the structure of the site
+* CSS - Used to style the HTML Elements
+* Bootstrap - CSS, JS, & HTML library used to add structure to the application including the grid layout
 * GitHub - Hosts the repository that can be deployed to GitHub Pages
 
-The repository includes the index.html, portfolio.html, and contact.html files and the "assets" directory, which runs adjacent. Within the asset directory are the "css" directory and the "images" directory. The "css" directory contains the style.css file and the "images" directory contains six image files.
+The repository includes the index.html, portfolio.html, and contact.html files and the "assets" directory, which runs adjacent. Within the asset directory are the "css" directory and the "images" directory. The "css" directory contains the style.css file and the background image and the "images" directory contains eight gifs and one image file.
 
 Repository structure must be maintained for proper usage of the index.html file.
 
-Deployed application: https://cnix273.github.io/responsive_design/
+Deployed application: https://cnix273.github.io/Portfolio-Perfection/.
 
-**Website Layout Bellow 576px:**![Screenshot 2](https://github.com/cnix273/responsive_design/blob/main/assets/images/Screenshot2.png)
-**Website Layout Above 576px:**![Screenshot 1](https://github.com/cnix273/responsive_design/blob/main/assets/images/Screenshot1.png)
+**Website Layout Bellow 576px:**![Screenshot 1](https://github.com/cnix273/responsive_design/blob/main/assets/images/Screenshot1.png)
+**Website Layout Above 576px:**![Screenshot 2](https://github.com/cnix273/responsive_design/blob/main/assets/images/Screenshot2.png)
+**Website Layout Above 576px:**![Screenshot 3](https://github.com/cnix273/responsive_design/blob/main/assets/images/Screenshot3.png)
 
 ## Credits
 
