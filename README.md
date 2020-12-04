@@ -25,7 +25,7 @@ Clone the repository from github.
 * Bootstrap - CSS, JS, & HTML library used to add structure to the application including the grid layout
 * GitHub - Hosts the repository that can be deployed to GitHub Pages
 
-The repository includes the index.html, portfolio.html, and contact.html files and the "assets" directory, which runs adjacent. Within the asset directory are the "css" directory and the "images" directory. The "css" directory contains the style.css file and the background image and the "images" directory contains eight gifs and one image file.
+The repository includes the index.html, portfolio.html, and contact.html files and the "assets" directory, which runs adjacent. Within the asset directory are the "css" directory, the "images" directory and a pdf file. The "css" directory contains the style.css file and the background image and the "images" directory contains eight gifs and one image file.
 
 Repository structure must be maintained for proper usage of the index.html file.
 
