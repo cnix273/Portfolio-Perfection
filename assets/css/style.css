@@ -31,9 +31,11 @@ h2 {
     margin-top: 20px;
 }
 
-img {
-    margin-left: 20px;
-}
+/* #sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+} */
 
 /* Footer Styling */
 .stickyFooter {
@@ -169,6 +171,10 @@ a {
 
 a:hover {
     color: rgb(75, 75, 75);
+}
+
+img {
+    margin-left: 20px;
 }
 
 /* Modal Styling */

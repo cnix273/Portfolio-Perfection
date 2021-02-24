@@ -31,9 +31,7 @@ Repository structure must be maintained for proper usage of the index.html file.
 
 Deployed application: https://cnix273.github.io/Portfolio-Perfection/.
 
-![Screenshot 1](https://github.com/cnix273/Portfolio-Perfection/blob/main/assets/images/Screenshot1.png)
-![Screenshot 2](https://github.com/cnix273/Portfolio-Perfection/blob/main/assets/images/Screenshot2.png)
-![Screenshot 3](https://github.com/cnix273/Portfolio-Perfection/blob/main/assets/images/Screenshot3.png)
+![App Walkthrough](https://github.com/cnix273/Portfolio-Perfection/blob/main/assets/images/Portfolio_walkthrough.gif)
 
 ## Credits
 
